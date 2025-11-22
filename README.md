@@ -12,12 +12,6 @@ Features and Functional Requirements
 
 The system supports the full set of essential database operations (CRUD) through an interactive command-line menu:
 
-No.
-
-Feature
-
-Description
-
 1. Add Student
 
 Allows the user to input data (e.g., ID, Name, Course) for a new student and save it to the CSV file.
