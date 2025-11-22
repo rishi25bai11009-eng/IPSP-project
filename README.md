@@ -18,33 +18,23 @@ Feature
 
 Description
 
-1
-
-Add Student
+1. Add Student
 
 Allows the user to input data (e.g., ID, Name, Course) for a new student and save it to the CSV file.
 
-2
-
-View Students
+2. View Students
 
 Displays a complete, formatted list of all student records currently stored in the system.
 
-3
-
-Search Student
+3. Search Student
 
 Finds and displays a specific student record based on a search criterion (e.g., Student ID or Name).
 
-4
-
-Update Student
+4. Update Student
 
 Enables modification of existing data for a selected student record.
 
-5
-
-Delete Student
+5. Delete Student
 
 Permanently removes a specified student record from the system.
 
