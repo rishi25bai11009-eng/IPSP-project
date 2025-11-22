@@ -40,15 +40,13 @@ Data Storage - CSV File - CSV was selected for its simplicity and beginner-frien
 
 Interface - Command Line Interface (CLI) - The primary method of interaction, providing a fast and efficient way to manage data.
 
-GETTING STARTED
+STEPS TO INSTALL
 
 To get a local copy of this project up and running, follow the steps below.
 
-Prerequisites
+STEP 1 : You need to have Python 3.x installed on your operating system.
 
-You need to have Python 3.x installed on your operating system.
-
-Installation and Execution
+STEP 2 : Installation and Execution
 
 Clone the repository:
 
@@ -56,12 +54,13 @@ git clone https://github.com/rishi25bai11009-eng/IPSP-project.git
 cd student-management-system
 
 
-Run the application:
+STEP 3 : Run the application:
 
 python main.py
 
+SCREENSHOTS 
+<img width="658" height="758" alt="Screenshot 2025-11-22 175546" src="https://github.com/user-attachments/assets/49753566-b8e0-441f-86f9-040977d42f57" />
 
-(Assuming your main executable file is named main.py).
 
 The system will start, and you will be presented with the main menu to perform operations.
 
