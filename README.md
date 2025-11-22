@@ -34,31 +34,13 @@ Permanently removes a specified student record from the system.
 
 Technology Stack and Architecture
 
-Component
+Python- Chosen for its simplicity, readability, and rich set of libraries.
 
-Detail
+Data Storage - CSV File - CSV was selected for its simplicity and beginner-friendly implementation, making the data easily viewable outside the application.
 
-Rationale
+Interface - Command Line Interface (CLI) - The primary method of interaction, providing a fast and efficient way to manage data.
 
-Language
-
-Python
-
-Chosen for its simplicity, readability, and rich set of libraries.
-
-Data Storage
-
-CSV File
-
-CSV was selected for its simplicity and beginner-friendly implementation, making the data easily viewable outside the application.
-
-Interface
-
-Command Line Interface (CLI)
-
-The primary method of interaction, providing a fast and efficient way to manage data.
-
-Getting Started
+GETTING STARTED
 
 To get a local copy of this project up and running, follow the steps below.
 
